@@ -1,0 +1,60 @@
+{
+  "title":"Teste Seu Conhecimento Sobre a Vida no Cazarão!?",
+  "questions":[
+    {
+      "id":1,
+      "question": "Qual é a principal motivação para as gangues de ratos no Cazarão?",
+      "options":[
+        {"id": 1, "name":"Acumular riquezas e tesouros", "alias":"A"},
+        {"id": 2, "name":"Proteger seu território e recursos", "alias":"A"},
+        {"id": 3, "name":"Ajudar os humanos com problemas de pragas", "alias":"B"},
+        {"id": 4, "name":"Promover a paz e harmonia entre as gangues", "alias":"B"}
+
+      ]
+    },
+    {
+      "id":2,
+      "question": "O que caracteriza um bom líder de gangue no submundo dos ratos?",
+      "options":[
+        {"id": 1, "name":"Astúcia e estratégia para superar adversários", "alias":"A"},
+        {"id": 2, "name":"Generosidade e caridade para com outros roedores", "alias":"B"},
+        {"id": 3, "name":"Adesão rigorosa às leis e normas do Cazarão", "alias":"A"},
+        {"id": 4, "name":"Submissão aos desejos dos humanos para evitar conflitos", "alias":"B"}
+      ]
+    },
+    {
+      "id":3,
+      "question": "Como os ratos do Cazarão lidam com a pressão humana na superfície?",
+      "options":[
+        {"id": 1, "name":"Buscam uma coexistência pacífica e evitam confrontos", "alias":"B"},
+        {"id": 2, "name":"Intensificam suas incursões, desafiando os humanos abertamente", "alias":"A"},
+        {"id": 3, "name":"Pedem ajuda às autoridades humanas para controlar as gangues rivais", "alias":"A"},
+        {"id": 4, "name":"Mudam-se para áreas menos habitadas para evitar conflitos", "alias":"B"}
+      ]
+    },
+    {
+      "id":4,
+      "question": "O que representa uma ameaça mais significativa para as gangues de ratos?",
+      "options":[
+        {"id": 1, "name":"Outras gangues de roedores em busca de poder", "alias":"A"},
+        {"id": 2, "name":"Humanos e suas operações de controle de pragas", "alias":"A"},
+        {"id": 3, "name":"Falta de recursos naturais e alimentos", "alias":"B"},
+        {"id": 4, "name":"Mudanças climáticas afetando o ambiente subterrâneo", "alias":"B"}
+      ]
+    },
+    {
+      "id":5,
+      "question": "Qual é a melhor abordagem moral para um rato do Cazarão em relação aos humanos?",
+      "options":[
+        {"id": 1, "name":"Coexistir pacificamente e evitar conflitos", "alias":"B"},
+        {"id": 2, "name":"Dominar e controlar os humanos para garantir segurança", "alias":"A"},
+        {"id": 3, "name":"Submeter-se aos desejos humanos para evitar represálias", "alias":"B"},
+        {"id": 4, "name":"Ignorar a presença humana e focar apenas nas questões ratas", "alias":"A"}
+      ]
+    }
+  ],
+  "results":{
+    "A": "Você é um grande rato 👍",
+    "B": "Você é um verme !!!!😂🤣👌"
+  }
+}
